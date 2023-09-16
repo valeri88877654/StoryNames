@@ -18,7 +18,7 @@ Gilroy для прочего текста
 body{
     font-family: 'Gilroy';
     background-color: #03030b;
-    background-image: url("../../images/background6.png");
+    background-image: url("../sources/images/background6.png")
     background-repeat: no-repeat;
     background-size: 100% auto;
     color: white;
